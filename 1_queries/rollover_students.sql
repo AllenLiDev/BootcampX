@@ -9,4 +9,4 @@ FROM
 WHERE
   cohorts.start_date != students.start_date
 ORDER BY
-  cohorts_name
+  cohorts_name;
